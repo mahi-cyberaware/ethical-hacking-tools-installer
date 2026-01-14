@@ -1,0 +1,5 @@
+# Database Assessment Tools for Kali Linux
+sqlmap
+sqlninja
+bbqsql
+NoSQLMap

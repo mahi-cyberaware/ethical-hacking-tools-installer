@@ -1,0 +1,24 @@
+# Information Gathering Tools for Kali Linux
+nmap
+masscan
+recon-ng
+maltego
+theharvester
+dnsrecon
+dnsenum
+sublist3r
+amass
+gobuster
+dirb
+whatweb
+wafw00f
+shodan
+netdiscover
+arp-scan
+fping
+hping3
+whois
+dnsutils
+curl
+wget
+git

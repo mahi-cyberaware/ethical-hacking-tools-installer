@@ -1,0 +1,4 @@
+# Termux - Web Application
+sqlmap
+whatweb
+dirb

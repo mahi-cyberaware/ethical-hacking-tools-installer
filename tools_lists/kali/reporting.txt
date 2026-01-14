@@ -1,0 +1,6 @@
+# Reporting Tools for Kali Linux
+dradis
+faraday
+magictree
+keepnote
+cutycapt

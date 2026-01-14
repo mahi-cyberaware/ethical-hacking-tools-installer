@@ -1,0 +1,8 @@
+# Reverse Engineering Tools for Kali Linux
+ghidra
+radare2
+apktool
+dex2jar
+jd-gui
+binwalk
+foremost

@@ -1,0 +1,7 @@
+# Forensics Tools for Kali Linux
+autopsy
+volatility
+guymager
+scalpel
+chkrootkit
+rkhunter

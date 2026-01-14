@@ -1,0 +1,4 @@
+# iSH info gathering
+nmap
+curl
+wget

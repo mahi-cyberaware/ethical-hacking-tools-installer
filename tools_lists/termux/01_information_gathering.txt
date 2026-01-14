@@ -1,0 +1,4 @@
+# Termux info gathering
+nmap
+whois
+curl

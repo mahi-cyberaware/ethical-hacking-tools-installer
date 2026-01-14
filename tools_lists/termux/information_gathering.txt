@@ -1,0 +1,9 @@
+# Termux - Information Gathering Tools
+nmap
+whois
+curl
+wget
+python
+python2
+git
+openssh

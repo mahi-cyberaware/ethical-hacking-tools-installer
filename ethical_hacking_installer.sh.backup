@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Main installer script
+echo "Ethical Hacking Tools Installer"
+echo "Running setup..."
+# Main logic will go here

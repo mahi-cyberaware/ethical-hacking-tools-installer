@@ -1,0 +1,7 @@
+# iSH - Information Gathering Tools
+nmap
+curl
+wget
+python3
+git
+openssh-client

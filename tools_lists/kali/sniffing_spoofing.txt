@@ -1,0 +1,7 @@
+# Sniffing & Spoofing Tools for Kali Linux
+wireshark
+ettercap
+tcpdump
+driftnet
+sslstrip
+mitmproxy

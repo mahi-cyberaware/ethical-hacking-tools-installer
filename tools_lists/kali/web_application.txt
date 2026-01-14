@@ -1,0 +1,11 @@
+# Web Application Tools for Kali Linux
+burpsuite
+zap
+w3af
+arachni
+vega
+commix
+xsstrike
+xsser
+beef-xss
+sqlmap
