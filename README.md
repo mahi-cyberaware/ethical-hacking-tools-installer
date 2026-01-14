@@ -9,7 +9,7 @@
 
 
 ## 🎥 Demo
-![Demo Screenshot](demo.gif) 
+![Demo Screenshot](assets/images/Screenshot_tool_installer.png) 
 
 One-command installer for ethical hacking tools on Kali Linux, Termux (Android), and iSH (iOS).
 
