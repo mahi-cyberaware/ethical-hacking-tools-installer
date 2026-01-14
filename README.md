@@ -1,8 +1,7 @@
 # 🔧 Ethical Hacking Tools Installer
 
-![Version](https://img.shields.io/badge/Version-2.0.0-blue)
-![Platform](https://img.shields.io/badge/Platform-Kali%20%7C%20Termux%20%7C%20iSH-green)
-![License](https://img.shields.io/badge/License-MIT-orange)
+![GitHub license](https://img.shields.io/github/license/mahi-cyberaware/ethical-hacking-tools-installer?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Kali%20%7C%20Termux%20%7C%20iSH-blue?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/mahi-cyberaware/ethical-hacking-tools-installer?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/mahi-cyberaware/ethical-hacking-tools-installer?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/mahi-cyberaware/ethical-hacking-tools-installer?style=for-the-badge)
