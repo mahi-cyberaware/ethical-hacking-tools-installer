@@ -1,3 +1,4 @@
-# iSH - Web Application
+# iSH - Web Application Tools
 sqlmap
+nikto
 whatweb

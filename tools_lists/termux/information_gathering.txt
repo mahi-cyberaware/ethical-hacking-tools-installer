@@ -1,9 +1,11 @@
 # Termux - Information Gathering Tools
 nmap
 whois
+dnsutils
 curl
 wget
+git
 python
 python2
-git
 openssh
+net-tools

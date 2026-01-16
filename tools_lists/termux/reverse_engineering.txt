@@ -1,0 +1,3 @@
+# Termux - Reverse Engineering
+radare2
+apktool

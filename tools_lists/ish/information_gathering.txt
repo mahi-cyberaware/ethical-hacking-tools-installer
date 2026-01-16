@@ -2,6 +2,7 @@
 nmap
 curl
 wget
-python3
 git
 openssh-client
+whois
+python3
