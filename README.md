@@ -35,7 +35,7 @@ git clone https://github.com/mahi-cyberaware/ethical-hacking-tools-installer.git
 pkg update && pkg upgrade
 pkg install git
 git clone https://github.com/mahi-cyberaware/ethical-hacking-tools-installer.git
-cd ethical-hacking-installer
+cd ethical-hacking-tools-installer
 chmod +x setup.sh ethical_hacking_installer.sh
 ./setup.sh
 ./ethical_hacking_installer.sh
@@ -45,7 +45,7 @@ chmod +x setup.sh ethical_hacking_installer.sh
 apk update && apk upgrade
 apk add git bash
 git clone https://github.com/mahi-cyberaware/ethical-hacking-tools-installer.git
-cd ethical-hacking-installer
+cd ethical-hacking-tools-installer
 chmod +x setup.sh ethical_hacking_installer.sh
 ./setup.sh
 ./ethical_hacking_installer.sh
@@ -53,7 +53,7 @@ chmod +x setup.sh ethical_hacking_installer.sh
 # Note: iSH has limited package availability
 
 git clone https://github.com/mahi-cyberaware/ethical-hacking-tools-installer.git
-cd ethical-hacking-installer
+cd ethical-hacking-tools-installer
 chmod +x setup.sh ethical_hacking_installer.sh
 ./setup.sh
 ./ethical_hacking_installer.sh
