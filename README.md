@@ -42,34 +42,84 @@ git clone https://github.com/mahi-cyberaware/ethical-hacking-tools-installer.git
 ## 📦 Installation
 ## 📱 Platform-Specific Installation
 
-### Termux (Android):
+### 🐉 Kali Linux
+
 ```bash
-# Install Termux from Play Store, then:
+sudo apt update && sudo apt upgrade -y
 
-pkg update && pkg upgrade
-pkg install git
+sudo apt install git -y
+
 git clone https://github.com/mahi-cyberaware/ethical-hacking-tools-installer.git
+
 cd ethical-hacking-tools-installer
+
 chmod +x setup.sh ethical_hacking_installer.sh
+
 ./setup.sh
+
 ./ethical_hacking_installer.sh
+```
 
-# Install iSH from App Store, then:
+---
 
+### 📱 Termux (Android)
+
+```bash
+pkg update && pkg upgrade -y
+
+pkg install git -y
+
+git clone https://github.com/mahi-cyberaware/ethical-hacking-tools-installer.git
+
+cd ethical-hacking-tools-installer
+
+chmod +x setup.sh ethical_hacking_installer.sh
+
+./setup.sh
+
+./ethical_hacking_installer.sh
+```
+
+---
+
+### 🍎 iSH (iOS CLI)
+
+```bash
 apk update && apk upgrade
+
 apk add git bash
-git clone https://github.com/mahi-cyberaware/ethical-hacking-tools-installer.git
-cd ethical-hacking-tools-installer
-chmod +x setup.sh ethical_hacking_installer.sh
-./setup.sh
-./ethical_hacking_installer.sh
-
-# Note: iSH has limited package availability
 
 git clone https://github.com/mahi-cyberaware/ethical-hacking-tools-installer.git
-cd ethical-hacking-tools-installer
-chmod +x setup.sh ethical_hacking_installer.sh
-./setup.sh
-./ethical_hacking_installer.sh
 
+cd ethical-hacking-tools-installer
+
+chmod +x setup.sh ethical_hacking_installer.sh
+
+./setup.sh
+
+./ethical_hacking_installer.sh
+```
+
+> ⚠️ Note:
+> iSH uses Alpine Linux and some tools may have limited compatibility.
+
+---
+
+### 🐧 Linux Desktop (Ubuntu/Debian)
+
+```bash
+sudo apt update && sudo apt upgrade -y
+
+sudo apt install git -y
+
+git clone https://github.com/mahi-cyberaware/ethical-hacking-tools-installer.git
+
+cd ethical-hacking-tools-installer
+
+chmod +x setup.sh ethical_hacking_installer.sh
+
+./setup.sh
+
+./ethical_hacking_installer.sh
+```
 
