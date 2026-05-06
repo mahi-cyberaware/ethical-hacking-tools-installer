@@ -1,4 +1,15 @@
+
 # 🔧 Ethical Hacking Tools Installer
+
+Cross-platform installer for ethical hacking and cybersecurity tools
+designed for educational environments, security research, and
+authorized penetration testing workflows.
+
+Supports:
+- Kali Linux
+- Termux
+- iSH
+- Linux-based environments
 
 ![Python](https://img.shields.io/badge/Python-3.8+-brightgreen?style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-Kali%20%7C%20Termux%20%7C%20iSH-blue?style=flat-square)
