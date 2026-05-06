@@ -1,10 +1,13 @@
 # 🔧 Ethical Hacking Tools Installer
 
-![GitHub license](https://img.shields.io/github/license/mahi-cyberaware/ethical-hacking-tools-installer?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Kali%20%7C%20Termux%20%7C%20iSH-blue?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/mahi-cyberaware/ethical-hacking-tools-installer?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/mahi-cyberaware/ethical-hacking-tools-installer?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/mahi-cyberaware/ethical-hacking-tools-installer?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.8+-brightgreen?style=flat-square)
+![Platform](https://img.shields.io/badge/Platform-Kali%20%7C%20Termux%20%7C%20iSH-blue?style=flat-square)
+![License](https://img.shields.io/github/license/mahi-cyberaware/ethical-hacking-tools-installer?style=flat-square)
+![Stars](https://img.shields.io/github/stars/mahi-cyberaware/ethical-hacking-tools-installer?style=flat-square)
+![Forks](https://img.shields.io/github/forks/mahi-cyberaware/ethical-hacking-tools-installer?style=flat-square)
+![Issues](https://img.shields.io/github/issues/mahi-cyberaware/ethical-hacking-tools-installer?style=flat-square)
+![Purpose](https://img.shields.io/badge/Purpose-Educational-orange?style=flat-square)
+![Security](https://img.shields.io/badge/Security-Research-red?style=flat-square)
 
 
 ## 🎥 Demo
